@@ -9,5 +9,14 @@ Eu sou o Eduardo Rocha, sou um programador Front End, Atualmente estou apredendo
 
   ## Minhas redes sociais 
   
-
+<p>
+<a href="https://www.instagram.com/edudu_rocha/">
+<img align="left" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rodolfomori/">
+<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</p>
+<br />
+<br />
   
